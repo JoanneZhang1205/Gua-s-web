@@ -1,5 +1,2 @@
 git clone https://github.com/JoanneZhang1205/JoanneZhang1205.github.io
 cd username.github.io
-git add .
-git commit -m "Initial commit"
-git push origin main
